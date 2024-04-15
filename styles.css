@@ -1,0 +1,27 @@
+h1{
+    color: blueviolet;
+}
+
+.beige {
+    background-color: bisque;
+}
+div class {
+
+}
+
+.rojo{
+    background-color: rgb(236, 71, 71);
+}
+
+.rosa{
+background-color: rgb(255, 119, 164);
+}
+
+.rojo, .rosa, .beige {
+    display: inline-block;
+    width: auto;
+}
+
+<div class="container">
+  <div class="item">Div centrado</div>
+</div>
